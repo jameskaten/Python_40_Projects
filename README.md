@@ -2,4 +2,4 @@
 python basic 40 project examples
 
 # Reference
-[Book] Python and 40 prjects
+[Book] Python and 40 prjects (AnswerBook)
